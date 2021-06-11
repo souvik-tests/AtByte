@@ -1,7 +1,7 @@
 # AtByte - Sniply Alternative
 AtByte is a free, open-source, static website template to share affiliate products. This you can say Sniply alternative.
 
-Here,take a look at the { [demo](#) } page.
+Here,take a look at the { [demo](https://souvik-tests.github.io/AtByte/p/test-page.html) } page.
 
 Clone this repo to start customization.
 ```
@@ -28,6 +28,8 @@ To change the offer image, make changes to this code.
 Change <b>offer-image.jpg</b> to your {image name} or {link}.
 ### 3. Offer Text & Button
 Head over to `<!-- pop area -->` and change accordingly.
+# Deploy
+Head over to [Netlify](https://www.netlify.com/), go to 'site' section & drop your project folder over there.
 # Talk to me
 If you have any issue or problem, feel free & talk to me. I will get back to you as soon as possible.
 
